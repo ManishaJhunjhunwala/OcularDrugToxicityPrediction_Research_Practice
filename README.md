@@ -1,0 +1,2 @@
+# OcularDrugToxicityPrediction_Research_Practice
+Devised a noble approach to predict the drug induced ocular toxicity based on their structural and physiochemical properties which defines their interaction with the transporters. Used several supervised machine learning algorithms to develop a model for the prediction of substrate specificity towards particular transporter. Achieved to get higher accuracy(85%) from its previous research. Worked upon this project under Dr. Prof. Chittaranjan Hota.
